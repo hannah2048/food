@@ -1,0 +1,19 @@
+{
+    "name": "apple pie",
+    "link": "na",
+    "cuisine": "dessert",
+    "tags": [
+        "apples"
+    ],
+    "ingredients": [
+        "apples"
+    ],
+    "instructions": "bake at 400",
+    "servings": "10",
+    "nutrition": [
+        200,
+        15,
+        40,
+        3
+    ]
+}

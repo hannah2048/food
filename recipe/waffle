@@ -1,0 +1,23 @@
+{
+    "name": "waffle",
+    "link": "na",
+    "cuisine": "breakfast",
+    "tags": [
+        "bread",
+        "veg"
+    ],
+    "ingredients": [
+        "oats",
+        "flour",
+        "egg",
+        "banana"
+    ],
+    "instructions": "cook waffle in maker",
+    "servings": "3",
+    "nutrition": [
+        300,
+        35,
+        20,
+        1
+    ]
+}

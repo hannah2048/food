@@ -1,0 +1,22 @@
+{
+    "name": "kale salad",
+    "link": "na",
+    "cuisine": "lunch",
+    "tags": [
+        "salad",
+        "veg",
+        "side"
+    ],
+    "ingredients": [
+        "kale",
+        "seeds"
+    ],
+    "instructions": "boo",
+    "servings": "5",
+    "nutrition": [
+        200,
+        5,
+        25,
+        3
+    ]
+}

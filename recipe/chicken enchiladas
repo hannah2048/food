@@ -1,0 +1,20 @@
+{
+    "name": "chicken enchiladas",
+    "link": "na",
+    "cuisine": "dinner",
+    "tags": [
+        "mexican"
+    ],
+    "ingredients": [
+        "chicken",
+        "sauce"
+    ],
+    "instructions": "",
+    "servings": "10",
+    "nutrition": [
+        250,
+        5,
+        30,
+        30
+    ]
+}
