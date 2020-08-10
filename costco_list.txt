@@ -1,31 +1,25 @@
 ###--PRODUCE--###
 
-onions
-mushrooms
-bananas
-figs
-berries
 salad bag
 broccoli
-zuchini
-oranges / grapefruit
+whole chicken
 
 
 ###--PANTRY--###
 
 flour
-avocado oil (canola)
-coconut oil (canola)
-cinnamon
 
 ###--FRIDGE--###
 
-organic butter
-eggs (wilcox)
-milk
+eggs
+
+###--FREEZER--###
+
+veggie sausages
+veggie burgers
 
 
 ###--BACK BULK--###
 
-soy milk
 pasta sauce
+misc nuts
