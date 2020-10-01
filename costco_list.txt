@@ -1,32 +1,38 @@
 ###--PRODUCE--###
 
 spinach
-broccoli
 berries
-thai salad kit *2
 avocados
 tomatoes
-salad
-
+salad kit
+baby carrots
 
 ###--MEAT/MISC--###
 
-
-
+raviolis
+hummus
+tikka masala chicken
+paneer
 
 ###--PANTRY--###
 
-pasta sauce
-Cholula Hot Sauce
+olive oil xtra virg
+pita chips
 
 ###--FRIDGE--###
 
 eggs (5 dozen)
 milk (2% or whole)
+cottage cheese
+lunch meat
 
 ###--FREEZER--###
 
+sausage patties
+berries
+chicken tenders
 
 ###--BACK BULK--###
 
 sparkling water
+
