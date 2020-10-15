@@ -1,36 +1,41 @@
 ###--PRODUCE--###
 
 spinach
-berries
+berries (maybe?)
 avocados
 tomatoes
 salad kit
-baby carrots
+oranges 
+corn?
+butternut?
 
 ###--MEAT/MISC--###
 
-raviolis
-hummus
-tikka masala chicken
-paneer
+
 
 ###--PANTRY--###
 
-olive oil xtra virg
-pita chips
+pasta
+pasta sauce
+oatmeal
+flour (maybe?)
+sugar (maybe?)
 
 ###--FRIDGE--###
 
 eggs (5 dozen)
 milk (2% or whole)
 cottage cheese
-lunch meat
+
 
 ###--FREEZER--###
 
 sausage patties
-berries
-chicken tenders
+berry blend
+chicken nuggets
+peas
+corn
+samosas
 
 ###--BACK BULK--###
 
