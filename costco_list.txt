@@ -1,29 +1,24 @@
 ###--PRODUCE--###
 
 spinach
-berries (maybe?)
-salad kit
+berries
 broccoli
-potato
 bananas
-pears
-bagels
+apples
 
 ###--MEAT/MISC--###
 
-rotisserie chicken
 
 ###--PANTRY--###
 
-pasta sauce
+beans
 
 ###--FRIDGE--###
 
 eggs (5 dozen)
 milk (2% or whole)
-cottage cheese
-kombucha
-yogurt drinks
+yogurt drinks (if they have them)
+activia
 
 ###--FREEZER--###
 
@@ -33,8 +28,10 @@ chicken tenders
 ###--BACK BULK--###
 
 sparkling water
-diapers
-toilet paper
+detergent
 
 ###--FRONT BULK--###
 
+dried bananas
+aussie bites
+probiotic supplement
